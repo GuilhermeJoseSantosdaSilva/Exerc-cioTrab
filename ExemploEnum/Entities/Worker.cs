@@ -10,7 +10,7 @@ namespace ExemploEnum.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public List<HourContract> ContractList { get; set; }
+        public List<HourContract> ContractList = new List<HourContract>();
 
         public void addContract(HourContract contract)
         {
@@ -27,7 +27,10 @@ namespace ExemploEnum.Entities
             double total = 0;
             foreach (HourContract obj in ContractList)
             {
-                total = total + obj.TotalValue();
+                if (month == obj.Date.Month && year == obj.Date.Year)
+                {
+                    total = total + obj.TotalValue();
+                }
             }
             return total;
         }

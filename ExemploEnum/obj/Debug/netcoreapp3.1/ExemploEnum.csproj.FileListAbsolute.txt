@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.exe
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.deps.json
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.runtimeconfig.json
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.runtimeconfig.dev.json
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.dll
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\bin\Debug\netcoreapp3.1\ExemploEnum.pdb
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.AssemblyInfo.cs
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.dll
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.pdb
+C:\Users\user\Desktop\Gui\C#\Repos\ws-vs2019\ExemploEnum\ExemploEnum\obj\Debug\netcoreapp3.1\ExemploEnum.genruntimeconfig.cache
