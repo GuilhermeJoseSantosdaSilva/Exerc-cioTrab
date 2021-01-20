@@ -6,5 +6,9 @@ namespace ExemploEnum.Entities
 {
     class HourContract
     {
+        public DateTime Date { get; set; }
+        public double ValueperHour { get; set; }
+        public int Hour { get; set; }
+
     }
 }

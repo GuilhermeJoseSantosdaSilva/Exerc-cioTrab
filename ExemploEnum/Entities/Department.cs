@@ -6,5 +6,6 @@ namespace ExemploEnum.Entities
 {
     class Department
     {
+        public string Name { get; set; }
     }
 }
