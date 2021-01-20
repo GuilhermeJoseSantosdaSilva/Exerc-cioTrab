@@ -10,5 +10,9 @@ namespace ExemploEnum.Entities
         public double ValueperHour { get; set; }
         public int Hour { get; set; }
 
+        public double TotalValue()
+        {
+            return ValueperHour * Hour;
+        }
     }
 }
